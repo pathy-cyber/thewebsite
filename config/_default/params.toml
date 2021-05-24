@@ -84,7 +84,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mark.kriegsmann@googlemail.com"
+email = "mark.kriegsmann@med.uni-heidelberg.de"
 phone = ""
 
 # Address
