@@ -6,7 +6,7 @@ defaultContentLanguage: en
 hasCJKLanguage: no
 defaultContentLanguageInSubdir: no
 removePathAccents: yes
-summaryLength: 5
+summaryLength: 2
 paginate: 10
 enableEmoji: yes
 enableRobotsTXT: yes
@@ -55,13 +55,13 @@ taxonomies:
   publication_type: publication_types
   tag: tags
 related:
-  includeNewer: yes
+  includeNewer: no
   indices:
     - name: tags
       weight: 80
     - name: categories
       weight: 70
-  threshold: 80
+  threshold: 70
   toLower: yes
 module:
   imports:

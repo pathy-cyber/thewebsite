@@ -1,0 +1,53 @@
+---
+title: Case 2
+author: ''
+date: '2021-05-29'
+slug: case-2
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-29T11:20:55+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+# Cystic Lung disease in a 40 year old man
+
+
+![image1](/case2/1x_he.png)
+![image2](/case2/10x_he.png)
+
+</details>
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Pulmonary Echinococcosis
+
+</details>
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+**Agent:** <br>Most commonly due to infetation by larvae of *Echinococcus granulosus* (dog tapeworm); Definitive host: dog, Intermediate host: sheep
+<br><br>
+**Epidemiology:** More common in females; occurs often in liver and lung
+<br><br>
+**Treatment:** <br>Resection is curative but recurrence in about 10%.
+<br><br>
+**Microscopy:** <br>Typically three layers. Middle laminated ectocyst layer is well appreciated in the image. <br> Can be highlighted by PAS-stain.
+<br><br>
+**Microscopy:** <br> E.multilocularis has thin laminated layer, usually with minimal or no germinal layer.
+<br>
+<br>
+**Reference:** <br>https://www.pathologyoutlines.com/topic/parasitologyechinococcus.html
+
+</details>

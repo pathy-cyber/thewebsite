@@ -3,13 +3,10 @@ title: "Case 1"
 author: "Mark Kriegsmann"
 date: 2021-05-28T21:13:14-05:00
 categories: ["cases"]
+tags: ["lung"]
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
-
-# Case 1: endobronchial mass in an 65 year old woman
+# Endobronchial mass in an 65 year old woman
 
 
 ![image1](/case1/4x_he.png)
