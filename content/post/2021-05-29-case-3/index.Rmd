@@ -1,0 +1,63 @@
+---
+title: Case 3
+author: 'Mark Kriegsmann'
+date: '2021-05-29'
+slug: case-3
+categories: ["cases"]
+tags: ["lung"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-29T12:22:00+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+# Nodular lung disease in a 20 year old woman
+
+
+![image1](/case3/1x_he.png)
+![image2](/case3/10x_he.png)
+
+</details>
+
+<details close>
+
+<summary>Special stains</summary>
+<br>
+Grocott
+
+![image3](/case3/40x_grocott.png)
+![image4](/case3/180x_grocott.png)
+</details>
+
+</details>
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Histoplasmosis
+
+</details>
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+**Agent:** <br>Histoplasma capsulatum (misnomer, no capsule present)
+<br><br>
+**Epidemiology:** Endemic disease in North, Central, and South America, Africa, and Asia, but also cases reported from Europe.
+<br><br>
+**Treatment:** <br>Usually not necessary. In case of disseminated disease (e.g. in immunocompromised), antifungal treatment.
+<br><br>
+**Microscopy:** <br> Small, budding, intracellular yeast in tissue, 2 - 5 microns in diameter. 
+
+<br>
+**Reference:** <br>https://academic.oup.com/cid/article/45/7/807/541502 
+
+</details>
