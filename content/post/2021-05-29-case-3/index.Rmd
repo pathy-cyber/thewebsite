@@ -49,7 +49,7 @@ Histoplasmosis
 
 <summary>Notes</summary>
 <br>
-**Agent:** <br>Histoplasma capsulatum (misnomer, no capsule present)
+**Agent:** <br>Histoplasma capsulatum (misnomer, no capsule present).
 <br><br>
 **Epidemiology:** Endemic disease in North, Central, and South America, Africa, and Asia, but also cases reported from Europe.
 <br><br>
