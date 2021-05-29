@@ -1,38 +1,53 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "Case 1"
+author: "Mark Kriegsmann"
+date: 2021-05-28T21:13:14-05:00
+categories: ["cases"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# Case 1: endobronchial mass in an 65 year old woman
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-You can embed an R code chunk like this:
-test
+![image1](/case1/4x_he.png)
+![image2](/case1/20x_he.png)
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+<details close>
 
-# Including Plots
+<summary>Immunohistochemistry</summary>
+<br>
+S100
+![image1](/case1/20x_s100.png)
+CD68
+![image1](/case1/20x_cd68.png)
+Melan-A
+![image1](/case1/20x_MelanA.png)
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
+</details>
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Endobronchial Granular Cell Tumor
+
+</details>
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+**Synonym:** <br>Abrikossoff tumor
+<br><br>
+**Epidemiology:** All ages, but peak in 4th-6th decade, slightly more common in females
+<br><br>
+**Dignity:** <br>typically benign, but may be malignant - no histological criteria to predict biological behaviour
+<br><br>
+**Microscopy:** <br>Nuclear atypia may be present. Overlying pseudoepitheliomatous hyperplasia may be observed.
+<br><br>
+**Reference:** <br>https://www.pathologyoutlines.com/topic/lungtumorgranularcelltumor.html 
+
+</details>

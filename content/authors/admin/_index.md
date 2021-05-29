@@ -1,4 +1,5 @@
 ---
+author: Mark Kriegsmann, MD
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:

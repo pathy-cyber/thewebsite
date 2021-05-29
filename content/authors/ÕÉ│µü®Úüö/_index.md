@@ -1,6 +1,6 @@
 ---
 authors:
-- 吳恩達
+- Mark Kriegsmann, MD
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -22,20 +22,18 @@ interests:
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Surgical Pathologist
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org
+  link: mailto:mark.kriegsmann@med.uni-heidelberg.de
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=kriegsmann+mark&btnG=
+
 superuser: false
 title: 吳恩達
 user_groups:
