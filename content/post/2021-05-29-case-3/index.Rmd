@@ -18,6 +18,7 @@ projects: []
 ---
 
 # Nodular lung disease in a 20 year old woman
+<br>
 
 
 ![image1](/case3/1x_he.png)

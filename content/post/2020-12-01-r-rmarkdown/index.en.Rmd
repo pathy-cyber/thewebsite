@@ -7,7 +7,7 @@ tags: ["lung"]
 ---
 
 # Endobronchial mass in an 65 year old woman
-
+<br>
 
 ![image1](/case1/4x_he.png)
 ![image2](/case1/20x_he.png)
