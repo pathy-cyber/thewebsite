@@ -1,0 +1,65 @@
+---
+title: Case 4
+author: 'Mark Kriegsmann'
+date: '2021-05-30'
+slug: case-4
+categories: ["cases"]
+tags: ["lung"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-30T17:48:07+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+# Lung mass in a 70 year old man
+<br>
+
+
+![image1](/case4/2x_he.png)
+![image2](/case4/10x_he.png)
+
+</details>
+
+<details close>
+
+<summary>Special stains</summary>
+<br>
+Kongo
+
+![image3](/case4/2x_kongo.png)
+
+</details>
+
+</details>
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Pulmonary amyloidosis
+
+</details>
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Forms:** Nodular & diffuse; some distinguish tracheobronchial <br>
+AL most common, followed by AA, other rare. Subtyping by IHC or mass spectrometry.
+<br><br>
+**Therapy:** <br>treat underlying disease.
+<br><br>
+**Microscopy:** <br> HE: Homogeneous eosinophilic amorphous material; Kongo: positiv (red), apple green birefringence on polarization.
+
+<br>
+**Reference:** <br>https://www.pathologyoutlines.com/topic/lungnontumoramyloid.html 
+
+</details>
