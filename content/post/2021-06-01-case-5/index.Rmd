@@ -1,14 +1,14 @@
 ---
 title: Case 5
 author: 'Mark Kriegsmann'
-date: '2021-06-01'
+date: '2021-05-28'
 slug: case-5
 categories: ["cases"]
 tags: ["lung"]
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-06-01T09:12:06+02:00'
+lastmod: '2021-05-28T09:12:06+02:00'
 featured: no
 image:
   caption: ''
