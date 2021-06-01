@@ -1,14 +1,14 @@
 ---
 title: Case 6
-author: ''
+author: 'Mark Kriegsmann'
 date: '2021-06-01'
 slug: case-6
-categories: []
-tags: []
+categories: ["cases"]
+tags: ["lung"]
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-06-01T10:01:25+02:00'
+lastmod: '2021-06-01T10:55:19+02:00'
 featured: no
 image:
   caption: ''
@@ -16,3 +16,50 @@ image:
   preview_only: no
 projects: []
 ---
+
+
+# Pleural thickening in a 70 year old man
+<br>
+
+
+![image1](/case6/0.5x_he.png)
+![image2](/case6/10x_he.png)
+
+<details close>
+
+<summary>Special stains</summary>
+<br>
+
+EVG
+
+![](/case6/10x_evg.png)
+
+</details>
+
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Pleuroparenchymal Fibroelastosis (PPFE)
+
+</details>
+
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+
+**Definion:** Idiopathic form of PPFE considered a form of idiopathic interstitial pneumonia <br>
+<br>
+**Epidemiology and Localization:** <br> Wide age range (20-80)<br> Males and Females equally affected <br> Upper lobes predominantly affected
+<br><br>
+**Microscopy:** <br> Subpleural dense fibroelastosis.
+<br><br>
+**Therapy and Prognosis:** <br> Diverse outcome of idiopathic form, some progress rapidly and require transplantation, others show slow progression over decades. <br>  
+**References:** <br>https://pubmed.ncbi.nlm.nih.gov/31425665/ <br> https://journals.sagepub.com/doi/10.1177/1479973119867945?icid=int.sj-abstract.similar-articles.2 <br> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6685112/
+
+
+</details>

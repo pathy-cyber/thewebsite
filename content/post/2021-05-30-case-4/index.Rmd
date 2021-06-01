@@ -33,9 +33,7 @@ projects: []
 <br>
 Kongo
 
-![image3](/case4/2x_kongo.png)
-
-</details>
+![](/case4/2x_kongo.png)
 
 </details>
 
