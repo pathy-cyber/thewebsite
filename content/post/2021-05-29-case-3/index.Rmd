@@ -15,6 +15,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+weight: 998
 ---
 
 # Nodular lung disease in a 20 year old woman

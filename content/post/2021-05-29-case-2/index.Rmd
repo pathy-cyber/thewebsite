@@ -3,8 +3,8 @@ title: Case 2
 author: ''
 date: '2021-05-26'
 slug: case-2
-categories: []
-tags: []
+categories: ["cases"]
+tags: ["lung"]
 subtitle: ''
 summary: ''
 authors: []
@@ -15,6 +15,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+weight: 999
 ---
 
 # Cystic lung disease in a 40 year old man

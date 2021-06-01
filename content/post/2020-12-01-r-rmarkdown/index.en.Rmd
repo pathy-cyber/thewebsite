@@ -4,6 +4,7 @@ author: "Mark Kriegsmann"
 date: 2021-05-25T21:13:14-05:00
 categories: ["cases"]
 tags: ["lung"]
+weight: 1000
 ---
 
 # Endobronchial mass in an 65 year old woman
