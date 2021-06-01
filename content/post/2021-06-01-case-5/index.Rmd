@@ -17,8 +17,6 @@ image:
 projects: []
 ---
 
-
-
 # Rib mass in a 40 year old woman
 <br>
 
