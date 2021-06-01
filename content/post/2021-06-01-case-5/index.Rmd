@@ -1,0 +1,56 @@
+---
+title: Case 5
+author: 'Mark Kriegsmann'
+date: '2021-06-01'
+slug: case-5
+categories: ["cases"]
+tags: ["lung"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-06-01T09:12:06+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+
+# Rib mass in a 40 year old woman
+<br>
+
+
+![image1](/case5/1x_he.png)
+![image2](/case5/5x_he.png)
+![image3](/case5/20x_he1.png)
+![image4](/case5/20x_he2.png)
+![image5](/case5/30x_he2.png)
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Fibrous dysplasia
+
+</details>
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Definition:** Benign fibroosseous lesion; mono- and polyostotic form <br><br>
+
+**Epidemiology:** <br>Females and Males equally affected.
+<br><br>
+**Microscopy:** <br> Bland fibroblast-like spindle cells. <br>Multinucleated giant cells may be present (secondary AKZ-like changes). <br>Myxomatous areas may be present. <br>Irregular woven bone often described as forming pattern resembling chinese characters <br>Osteoblastic rimming of the bony trabeculae is often absent. <br><br>
+**Molecular pathology:** <br> GNAS1 (exon 8 and 9) in 45–93% of cases.<br><br>
+**Syndroms:**McCune-Albright syndrome (endocrine abnormalities, café au lait spots) and Mazabraud syndrome (soft tissue myxomas)
+<br>
+**References:** <br>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563825/ <br>
+https://www.pathologyoutlines.com/topic/bonefibrousdysplasia.html 
+
+</details>
