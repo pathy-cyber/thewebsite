@@ -1,0 +1,55 @@
+---
+title: Case 7
+author: 'Mark Kriegsmann'
+date: '2021-06-13'
+slug: case-7
+categories: ["cases"]
+tags: ["lung"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-06-13T17:22:50+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weight: 994
+---
+
+
+# Cardial tumor in a 40 year old woman
+<br>
+
+
+![image1](/case7/he_0.5.png)
+![image2](/case7/he_10_1.png)
+![image3](/case7/he_10_2.png)
+![image4](/case7/he_10_3.png)
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Cardiac myxoma
+
+</details>
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+
+**Definion:** Cardiac myxoma is a benign neoplasm consisting of stellate, ovoid, or plump spindle cells within a vascular myxoid matrix. <br>
+<br>
+**Epidemiology and Localization:** <br> Left atrium in 80-90% <br> Non-left atrial and multifocal Myxomas should raise suspicion for Carney Complex (10%; LAMB syndrome (lentigines, atrial myxoma, mucocutaneous myxoma, blue naevus); NAME syndrome (naevi, atrial myxoma, skin myxoma, ephelides)).<br> May present with paraneoplastic syndromes. <br> F:M = 2:1 <br> All ages affected, most common 40-70.  
+<br><br>
+**Microscopy:** <br> Characterized by so called myxoma cell (or lepidic cell), which is frequenly located around vessels.<br>Intratumoural elastic fibres (Gamna–Gandy bodies). <br> Hemorrhage is common. <br> Extramedullary haematopoiesis in 7%.<br> If calcifications extensive also called lithomyxoma. 
+<br><br>
+**Therapy and Prognosis:** <br> Recurrence in <5% non-Carney Complex and 10-20% in Carney Complex <br>  
+**References:** <br>https://www.pathologyoutlines.com/topic/hearttumormyxoma.html <br> WHO Classification 2021.
+
+
+</details>
+
