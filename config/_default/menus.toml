@@ -17,3 +17,8 @@
   name = "Contact"
   url = "contact"
   weight = 30
+
+[[main]]
+  name = "Impressum"
+  url = "impressum"
+  weight = 40
