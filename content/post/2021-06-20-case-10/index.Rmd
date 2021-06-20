@@ -1,0 +1,74 @@
+---
+title: Case 10
+author: 'Mark Kriegsmann'
+date: '2021-06-20'
+slug: case-10
+categories: ["cases"]
+tags: ["lung", "nontumor"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-06-20T16:33:09+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weight: 991
+---
+
+# Lung infiltrates in a 25 year old woman
+<br>
+
+
+![image1](/case10/he_1_1.png)
+![image2](/case10/he_4.png)
+![image3](/case10/he_20.png)
+
+
+<details close>
+
+<summary>Histochemistry</summary>
+<br>
+Berlin-Blue Reaction
+
+![](/case10/fe_10.png)
+
+</details>
+
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Idiopathic pulmonary hemosiderosis
+
+</details>
+
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Definion:** <br>Rare disease characterized by repeated episodes of bleeding into the lungs <br>
+<br>
+**Epidemiology and clinical features:** <br> Rare; diagnosis of exclusion. <br>80% diagnosed in children, 20% in adults. <br> Proposed risk factors: Genetic predisposition, Environmental exposure, Immunologic association, Allergic reaction. 
+<br><br>
+**Microscopy:** <br> Diffuse alveolar hemorrhage and dense infiltrate of hemosiderophages. <br>Often iron incrustations in vessel wall, which can be highlighted with a Berlin-Blue Reaction (Fe).<br> No focal or diffuse smooth muscle cell proliferations, no vascular malformations, no malignancy, no pulmonary infarcts, no capillaritis/vasculitis, no granulomatous inflammation, and no infectious agents should be present.
+<br><br>
+
+**Differential diagnosis (according to Ioachimescu et al.):** <br> Conditions associated with pulmonary vasculitis/capillaritis:<br>
+
+Systemic vasculitides: microscopic polyangiitis, Wegener's granulomatosis, pauci immune glomerulonephritis, Henoch-Schonlein purpura, Behcet disease, systemic lupus erythematosus, rheumatoid arthritis, polymyositis, scleroderma, mixed connective tissue disorder, Churg Strauss syndrome, essential cryoglobulinemia, hypersensitivity vasculitis.<br>
+
+Other conditions: isolated pulmonary pauci-immune capillaritis, Goodpasture's syndrome, IgA nephropathy, antiphospholipid syndrome, autologous/allogeneic haematopoietic stem cell transplant, lung transplant rejection, ulcerative colitis, retinoic acid syndrome, subacute bacterial endocarditis.<br><br>
+
+Conditions not associated with pulmonary vasculitis/capillaritis: <br> coagulopathies, platelet functional defects, thrombocytopenia, diffuse intravascular coagulation, venous thromboembolic disease, pulmonary neoplasia, pulmonary veno-occlusive disease, pulmonary infarction, arterio-venous malformation, lymphangioleiomyomatosis, tuberous sclerosis, pulmonary capillary haemangiomatosis, mitral stenosis, diffuse alveolar damage, crack cocaine or trimellitic anhydride inhalation, idiopathic pulmonary haemosiderosis.
+
+**Prognosis:**<br> Data is limited. Patients usually die either from acute respiratory failure due to acute hemorrhage or chronic respiratory failure due to pulmonary fibrosis.In pediatric patients, the five-year survival has increased to 67–84% at the end of the twentieth century, compared to 2.5–5 years, reported earlier in the literature.Among latest adult cases, 14% of patients died during the acute phase and survival beyond 40 years has been documented (Saha Review 2020)
+
+
+**References:** <br>https://pubmed.ncbi.nlm.nih.gov/33246295/ <br> https://erj.ersjournals.com/content/24/1/162  
+
