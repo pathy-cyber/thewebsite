@@ -3,8 +3,8 @@ title: Case 9
 author: ''
 date: '2021-06-20'
 slug: case-9
-categories: ["mediastinum"]
-tags: ["thymoma"]
+categories: ["cases"]
+tags: ["thymoma", "mediastinum"]
 subtitle: ''
 summary: ''
 authors: []
