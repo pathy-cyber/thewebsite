@@ -1,0 +1,71 @@
+---
+title: Case 8
+author: 'Mark Kriegsmann'
+date: '2021-06-20'
+slug: case-8
+categories: ["cases"]
+tags: ["thorax"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-06-20T08:55:50+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weight: 993
+---
+
+
+# Thoracic tumor in a 50 year old man
+<br>
+
+
+![image1](/case8/he_1.5.png)
+![image2](/case8/he_10_1.png)
+![image3](/case8/he_10_2.png)
+
+
+<details close>
+
+<summary>Immunohistochemistry</summary>
+<br>
+beta-Catenin
+
+![](/case8/beta_10x.png)
+</details>
+
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Desmoid Fibromatosis
+
+</details>
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Definion:** <br>Locally aggressive fibroblastic / myofibroblastic tumor without metastatic potential <br>
+<br>
+**Epidemiology and Localization:** <br> Mean age: 36 - 42 years 
+<br><br>
+**Microscopy:** <br> Bland spindle cells, typically with low mitotic activity. <br> Poorly defined. <br> Extravasated erythrocytes common. <br> May have myxoid, oedematous, or highly collagenous areas.
+<br><br>
+
+**Immunohistochemistry and molecular pathology:** <br> 90% CTNNB1 (exon 3 most common) and APC mutations . 
+
+**Therapy and Prognosis:** <br> Recurrence in 20-30% <br>  May undergo spontaneous regression. <br> May be managed conservatively, with surgery, radio- or chemotherapy. Surgery may induce growth, if not completely removed. 
+
+
+**References:** <br>https://www.pathologyoutlines.com/topic/softtissuefibromatosisdeep.html 
+
+
+</details>
+
+
