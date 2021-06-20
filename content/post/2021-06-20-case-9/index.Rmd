@@ -63,7 +63,7 @@ Micronodular Thymoma with lymphoid stroma
 <br>
 **Epidemiology and clinical features:** <br> 1-5% of all thymomas. <br> Age: 41 to 83 years (mean: 63.8 years). <br>No myastenia gravis.
 <br><br>
-**Microscopy:** <br> Small nodules of tumour cells separated by abundant lymphoid stroma, which usually contains lymphoid follicles with or without germinal centres. Epithelial islands can be highlighted by CK19. Lymph follicales can be highlighted with CD20. Often contain numerous Langerhans cells.
+**Microscopy:** <br> Small nodules of tumour cells separated by abundant lymphoid stroma, which usually contains lymphoid follicles with or without germinal centres. Epithelial islands can be highlighted by CK19. Lymph follicales can be highlighted with CD20. Often contain numerous Langerhans cells.<br> Up to 30% have associated type A thymoma.
 <br><br>
 
 **Therapy and Prognosis:** <br> There have been no reports of recurrences, distant metastases, or tumour-related deaths after surgical resection (Only thymoma that has no "/3" ICD-O code).
