@@ -1,0 +1,78 @@
+---
+title: Case 9
+author: ''
+date: '2021-06-20'
+slug: case-9
+categories: ["mediastinum"]
+tags: ["thymoma"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-06-20T15:58:01+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weight: 992
+---
+
+
+# Mediastinal tumor in a 60 year old man
+<br>
+
+
+![image1](/case9/he_1.png)
+![image2](/case9/he_4.png)
+![image3](/case9/he_14png.png)
+
+
+<details close>
+
+<summary>Immunohistochemistry</summary>
+<br>
+CK19
+
+![image4](/case9/ck19_4.png)
+CD20
+
+![](/case9/cd20_4.png)
+
+CD1a
+
+![image6](/case9/cd1a_4.png)
+</details>
+
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Micronodular Thymoma with lymphoid stroma
+
+</details>
+
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Definion:** <br>Rare subtype of thymoma characterised by numerous lymph follicles <br>
+<br>
+**Epidemiology and clinical features:** <br> 1-5% of all thymomas. <br> Age: 41 to 83 years (mean: 63.8 years). <br>No myastenia gravis.
+<br><br>
+**Microscopy:** <br> Small nodules of tumour cells separated by abundant lymphoid stroma, which usually contains lymphoid follicles with or without germinal centres. Epithelial islands can be highlighted by CK19. Lymph follicales can be highlighted with CD20. Often contain numerous Langerhans cells.
+<br><br>
+
+**Therapy and Prognosis:** <br> There have been no reports of recurrences, distant metastases, or tumour-related deaths after surgical resection (Only thymoma that has no "/3" ICD-O code).
+
+
+**References:** <br>WHO Classification 2021. 
+
+
+</details>
+
+
+
