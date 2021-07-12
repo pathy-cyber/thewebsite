@@ -1,0 +1,60 @@
+---
+title: 'Case 11'
+author: 'Mark Kriegsmann'
+date: '2021-07-12'
+slug: case-11
+categories: ["cases"]
+tags: ["thorax", "softtissue"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-07-12T17:50:12+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weights: 991
+---
+
+
+
+# Posterior mediastinal mass in a 45 year old woman
+<br>
+
+
+![image1](/case11/1x_he.png)
+![image2](/case11/10x_he.png)
+![image3](/case11/20x_he.png)
+
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Ganglioneuroma
+
+</details>
+
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Definion:** <br>Benign neoplasm that originates from neural crest cells of sympathetic ganglia or adrenal medulla <br>
+<br>
+**Epidemiology and clinical features:** <br> Usually not in children.<br>
+Posterior mediastinum commonly affected 
+<br><br>
+**Microscopy:** <br> Schwann cells and Ganglion cells. <br>Ganglion cells may be dysmorphic. <br>Subtypes are: with mature ganglion cells and with maturing ganglion cells.
+<br><br>
+**Therapy and Prognosis:** <br> Benign.<br> 
+
+**Reference:** <br>https://www.pathologyoutlines.com/topic/adrenalganglioneuroma.html
+
+</details>
+
+
+
