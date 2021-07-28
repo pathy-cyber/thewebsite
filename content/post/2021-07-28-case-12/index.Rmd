@@ -1,0 +1,38 @@
+---
+title: Case 12
+author: 'Mark Kriegsmann'
+date: '2021-07-28'
+slug: case-12
+categories: ["cases"]
+tags: ["lung", "asbestosis", "ild"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-07-28T13:07:44+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weights: 990
+---
+
+
+# Pleural fibrosis in a 85 year old man
+<br>
+
+Fe-stain
+
+![image1](/case12/10x_fe.png)
+![image2](/case12/100x_fe.png)
+
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Asbestosis
+
+</details>
+

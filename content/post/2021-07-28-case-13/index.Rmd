@@ -1,0 +1,57 @@
+---
+title: Case 13
+author: 'Mark Kriegsmann'
+date: '2021-07-28'
+slug: case-13
+categories: ["cases"]
+tags: ["spleen", "benign"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-07-28T13:21:17+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weights: 989
+---
+
+
+# Spleenic mass in a 45 year old woman
+<br>
+
+
+![image1](/case13/0.7_he.png)
+![image2](/case13/10x_he.png)
+![image3](/case13/20x_he.png)
+
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Sclerosing angiomatoid nodular transformation
+
+</details>
+
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Definion:** <br>Rare benign lesion of spleen with unknown etiology <br>
+<br>
+**clinical features:** <br> Usually asymptomatic.
+<br><br>
+**Microscopy:** <br> Nodular aspect <br>slit-like vessels and bland spindle cells
+<br><br>
+
+**Reference:** <br>https://www.pathologyoutlines.com/topic/spleensclerosingangiomatoid.html
+
+</details>
+
+
+
