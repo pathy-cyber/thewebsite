@@ -1,0 +1,59 @@
+---
+title: Case 14
+author: 'Mark Kriegsmann'
+date: '2022-01-30'
+slug: case-14
+categories: ["cases"]
+tags: ["soft tissue", "thoracic", "benign"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-30T16:53:46+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weights: 988
+---
+
+
+# Thoracic tumour in a 55 year old man
+<br>
+
+
+![image1](/case14/he_1x.jpeg)
+![image2](/case14/he_10x.jpeg)
+![image3](/case14/he_40x.jpeg)
+<details close>
+
+<summary>What stain do you want?</summary>
+<br>
+EvG
+
+
+
+![image4](/case14/evg_10x.jpeg)
+</details>
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Elastofibroma
+
+</details>
+
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Reference:** <br>https://www.pathologyoutlines.com/topic/softtissueelastofibroma.html
+
+</details>
+
+
+

@@ -1,0 +1,49 @@
+---
+title: Case 15
+author: 'Mark Kriegsmann'
+date: '2022-01-30'
+slug: case-15
+categories: ["cases"]
+tags: ["benign", "soft tissue"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-30T17:03:43+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weights: 987
+---
+
+
+# Endobronchial mass in a 30 year old woman
+<br>
+
+
+![image1](/case15/4x_he.jpeg)
+![image2](/case15/20x_he.jpeg)
+
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Endobronchial lipoma
+
+</details>
+
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Reference:** <br>https://www.pathologyoutlines.com/topic/lungtumorlipoma.html
+
+</details>
+
+
+
