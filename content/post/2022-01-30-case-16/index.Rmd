@@ -1,0 +1,50 @@
+---
+title: Case 16
+author: 'Mark Kriegsmann'
+date: '2022-01-30'
+slug: case-16
+categories: ["cases"]
+tags: ["benign", "lung"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-30T17:12:24+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+weights: 986
+---
+
+
+
+# Multiple lung masses in a 65 year old man
+<br>
+
+
+![image1](/case16/milz_1x.jpeg)
+![image2](/case16/milz4x.jpeg)
+![image3](/case16/milz20x.jpeg)
+
+<details close>
+
+<summary>What's your diagnosis</summary>
+<br>
+Thoracic splenosis
+
+</details>
+
+
+<details close>
+
+<summary>Notes</summary>
+<br>
+
+**Reference:** <br>https://pubmed.ncbi.nlm.nih.gov/31926595/ <br> https://pubmed.ncbi.nlm.nih.gov/34480462/
+
+</details>
+
+
+
